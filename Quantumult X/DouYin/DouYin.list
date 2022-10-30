@@ -1,6 +1,6 @@
 # NAME: DouYin
-# AUTHOR: 
-# REPO: 
+# AUTHOR: kiwiMelaleuca
+# REPO: https://raw.githubusercontent.com/kiwiMelaleuca/Rules/main/Quantumult%20X/DouYin/DouYin.list
 # UPDATED: 2022年10月30日13点18分
 # HOST-SUFFIX: 6
 # TOTAL: 6
@@ -18,3 +18,6 @@ HOST-SUFFIX,awemeughun.com,DouYin
 HOST-SUFFIX,bdurl.net,DouYin
 HOST-SUFFIX,xycdn.com,DouYin
 HOST-SUFFIX,oceanengine.com,DouYin
+HOST-SUFFIX,douyinstatic.com,DouYin
+HOST-SUFFIX,kuiniuca.com,DouYin
+HOST-SUFFIX,bytegecko.com,DouYin
