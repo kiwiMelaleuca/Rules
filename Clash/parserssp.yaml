@@ -1,0 +1,286 @@
+      prepend-rules:
+        - DOMAIN-SUFFIX,account-paypal.info,paypal
+        - DOMAIN-SUFFIX,account-paypal.net,paypal
+        - DOMAIN-SUFFIX,account-paypal.org,paypal
+        - DOMAIN-SUFFIX,accountpaypal.com,paypal
+        - DOMAIN-SUFFIX,accountpaypal.net,paypal
+        - DOMAIN-SUFFIX,accountpaypal.org,paypal
+        - DOMAIN-SUFFIX,anfutong.cn,paypal
+        - DOMAIN-SUFFIX,anfutong.com,paypal
+        - DOMAIN-SUFFIX,anfutong.com.cn,paypal
+        - DOMAIN-SUFFIX,beibao.cn,paypal
+        - DOMAIN-SUFFIX,beibao.com,paypal
+        - DOMAIN-SUFFIX,beibao.com.cn,paypal
+        - DOMAIN-SUFFIX,bill-safe.com,paypal
+        - DOMAIN-SUFFIX,billmelater.com,paypal
+        - DOMAIN-SUFFIX,billmelater.info,paypal
+        - DOMAIN-SUFFIX,billmelater.net,paypal
+        - DOMAIN-SUFFIX,bml.info,paypal
+        - DOMAIN-SUFFIX,braintreegateway.com,paypal
+        - DOMAIN-SUFFIX,braintreegateway.tv,paypal
+        - DOMAIN-SUFFIX,braintreepayments.com,paypal
+        - DOMAIN-SUFFIX,braintreepayments.info,paypal
+        - DOMAIN-SUFFIX,braintreepayments.org,paypal
+        - DOMAIN-SUFFIX,braintreepayments.tv,paypal
+        - DOMAIN-SUFFIX,braintreepaymentsolutions.com,paypal
+        - DOMAIN-SUFFIX,braintreeps.com,paypal
+        - DOMAIN-SUFFIX,briantreepayments.net,paypal
+        - DOMAIN-SUFFIX,briantreepayments.tv,paypal
+        - DOMAIN-SUFFIX,buyfast-paysmart.net,paypal
+        - DOMAIN-SUFFIX,card.io,paypal
+        - DOMAIN-SUFFIX,cash2.com,paypal
+        - DOMAIN-SUFFIX,cashify.com,paypal
+        - DOMAIN-SUFFIX,cashify.net,paypal
+        - DOMAIN-SUFFIX,devtools-paypal.com,paypal
+        - DOMAIN-SUFFIX,experiencebillmelater.com,paypal
+        - DOMAIN-SUFFIX,filipino-music.net,paypal
+        - DOMAIN-SUFFIX,fundpaypal.com,paypal
+        - DOMAIN-SUFFIX,getbraintree.com,paypal
+        - DOMAIN-SUFFIX,gmoney.org,paypal
+        - DOMAIN-SUFFIX,i-o-u.info,paypal
+        - DOMAIN-SUFFIX,krakenjs.com,paypal
+        - DOMAIN-SUFFIX,loanbuilder.com,paypal
+        - DOMAIN-SUFFIX,login-paypal.com,paypal
+        - DOMAIN-SUFFIX,login-paypal.info,paypal
+        - DOMAIN-SUFFIX,mywaytopay.info,paypal
+        - DOMAIN-SUFFIX,mywaytopay.net,paypal
+        - DOMAIN-SUFFIX,pa9pal.com,paypal
+        - DOMAIN-SUFFIX,paaypal.com,paypal
+        - DOMAIN-SUFFIX,paily.net,paypal
+        - DOMAIN-SUFFIX,paily.org,paypal
+        - DOMAIN-SUFFIX,paipal.com,paypal
+        - DOMAIN-SUFFIX,pavpal.com,paypal
+        - DOMAIN-SUFFIX,paydiant.com,paypal
+        - DOMAIN-SUFFIX,paylike.com,paypal
+        - DOMAIN-SUFFIX,paypa1.com,paypal
+        - DOMAIN-SUFFIX,paypa1.org,paypal
+        - DOMAIN-SUFFIX,paypaal.com,paypal
+        - DOMAIN-SUFFIX,paypal-activate.com,paypal
+        - DOMAIN-SUFFIX,paypal-activate.info,paypal
+        - DOMAIN-SUFFIX,paypal-activate.org,paypal
+        - DOMAIN-SUFFIX,paypal-apac.com,paypal
+        - DOMAIN-SUFFIX,paypal-apps.com,paypal
+        - DOMAIN-SUFFIX,paypal-biz.com,paypal
+        - DOMAIN-SUFFIX,paypal-brandcentral.com,paypal
+        - DOMAIN-SUFFIX,paypal-business.com,paypal
+        - DOMAIN-SUFFIX,paypal-business.net,paypal
+        - DOMAIN-SUFFIX,paypal-business.org,paypal
+        - DOMAIN-SUFFIX,paypal-cardcash.com,paypal
+        - DOMAIN-SUFFIX,paypal-cash.com,paypal
+        - DOMAIN-SUFFIX,paypal-center.com,paypal
+        - DOMAIN-SUFFIX,paypal-center.info,paypal
+        - DOMAIN-SUFFIX,paypal-center.net,paypal
+        - DOMAIN-SUFFIX,paypal-center.org,paypal
+        - DOMAIN-SUFFIX,paypal-communication.com,paypal
+        - DOMAIN-SUFFIX,paypal-communications.com,paypal
+        - DOMAIN-SUFFIX,paypal-communications.net,paypal
+        - DOMAIN-SUFFIX,paypal-community.com,paypal
+        - DOMAIN-SUFFIX,paypal-community.net,paypal
+        - DOMAIN-SUFFIX,paypal-comunidad.com,paypal
+        - DOMAIN-SUFFIX,paypal-corp.com,paypal
+        - DOMAIN-SUFFIX,paypal-database.com,paypal
+        - DOMAIN-SUFFIX,paypal-database.us,paypal
+        - DOMAIN-SUFFIX,paypal-donations.com,paypal
+        - DOMAIN-SUFFIX,paypal-dynamic.com,paypal
+        - DOMAIN-SUFFIX,paypal-engineering.com,paypal
+        - DOMAIN-SUFFIX,paypal-europe.com,paypal
+        - DOMAIN-SUFFIX,paypal-excelinvoicing.com,paypal
+        - DOMAIN-SUFFIX,paypal-exchanges.com,paypal
+        - DOMAIN-SUFFIX,paypal-forward.com,paypal
+        - DOMAIN-SUFFIX,paypal-galactic.com,paypal
+        - DOMAIN-SUFFIX,paypal-gift.com,paypal
+        - DOMAIN-SUFFIX,paypal-gifts.com,paypal
+        - DOMAIN-SUFFIX,paypal-gpplus.com,paypal
+        - DOMAIN-SUFFIX,paypal-here.com,paypal
+        - DOMAIN-SUFFIX,paypal-hrsystem.com,paypal
+        - DOMAIN-SUFFIX,paypal-innovationlab.com,paypal
+        - DOMAIN-SUFFIX,paypal-integration.com,paypal
+        - DOMAIN-SUFFIX,paypal-japan.com,paypal
+        - DOMAIN-SUFFIX,paypal-knowledge.com,paypal
+        - DOMAIN-SUFFIX,paypal-labs.com,paypal
+        - DOMAIN-SUFFIX,paypal-latam.com,paypal
+        - DOMAIN-SUFFIX,paypal-learning.com,paypal
+        - DOMAIN-SUFFIX,paypal-login.com,paypal
+        - DOMAIN-SUFFIX,paypal-login.info,paypal
+        - DOMAIN-SUFFIX,paypal-login.org,paypal
+        - DOMAIN-SUFFIX,paypal-login.us,paypal
+        - DOMAIN-SUFFIX,paypal-luxury.com,paypal
+        - DOMAIN-SUFFIX,paypal-mainstreet.net,paypal
+        - DOMAIN-SUFFIX,paypal-marketing.com,paypal
+        - DOMAIN-SUFFIX,paypal-media.com,paypal
+        - DOMAIN-SUFFIX,paypal-merchantloyalty.com,paypal
+        - DOMAIN-SUFFIX,paypal-mktg.com,paypal
+        - DOMAIN-SUFFIX,paypal-mobilemoney.com,paypal
+        - DOMAIN-SUFFIX,paypal-network.org,paypal
+        - DOMAIN-SUFFIX,paypal-notice.com,paypal
+        - DOMAIN-SUFFIX,paypal-notify.com,paypal
+        - DOMAIN-SUFFIX,paypal-online.info,paypal
+        - DOMAIN-SUFFIX,paypal-online.net,paypal
+        - DOMAIN-SUFFIX,paypal-online.org,paypal
+        - DOMAIN-SUFFIX,paypal-optimizer.com,paypal
+        - DOMAIN-SUFFIX,paypal-pages.com,paypal
+        - DOMAIN-SUFFIX,paypal-photocard.com,paypal
+        - DOMAIN-SUFFIX,paypal-plaza.com,paypal
+        - DOMAIN-SUFFIX,paypal-portal.com,paypal
+        - DOMAIN-SUFFIX,paypal-prepagata.com,paypal
+        - DOMAIN-SUFFIX,paypal-prepagata.net,paypal
+        - DOMAIN-SUFFIX,paypal-prepaid.com,paypal
+        - DOMAIN-SUFFIX,paypal-profile.com,paypal
+        - DOMAIN-SUFFIX,paypal-proserv.com,paypal
+        - DOMAIN-SUFFIX,paypal-qrshopping.org,paypal
+        - DOMAIN-SUFFIX,paypal-recargacelular.com,paypal
+        - DOMAIN-SUFFIX,paypal-redeem.com,paypal
+        - DOMAIN-SUFFIX,paypal-referral.com,paypal
+        - DOMAIN-SUFFIX,paypal-retail.com,paypal
+        - DOMAIN-SUFFIX,paypal-scoop.com,paypal
+        - DOMAIN-SUFFIX,paypal-search.com,paypal
+        - DOMAIN-SUFFIX,paypal-secure.net,paypal
+        - DOMAIN-SUFFIX,paypal-secure.org,paypal
+        - DOMAIN-SUFFIX,paypal-security.net,paypal
+        - DOMAIN-SUFFIX,paypal-security.org,paypal
+        - DOMAIN-SUFFIX,paypal-service.org,paypal
+        - DOMAIN-SUFFIX,paypal-signin.com,paypal
+        - DOMAIN-SUFFIX,paypal-signin.us,paypal
+        - DOMAIN-SUFFIX,paypal-special.com,paypal
+        - DOMAIN-SUFFIX,paypal-specialoffers.com,paypal
+        - DOMAIN-SUFFIX,paypal-sptam.com,paypal
+        - DOMAIN-SUFFIX,paypal-status.com,paypal
+        - DOMAIN-SUFFIX,paypal-support.com,paypal
+        - DOMAIN-SUFFIX,paypal-survey.com,paypal
+        - DOMAIN-SUFFIX,paypal-survey.org,paypal
+        - DOMAIN-SUFFIX,paypal-team.com,paypal
+        - DOMAIN-SUFFIX,paypal-viewpoints.net,paypal
+        - DOMAIN-SUFFIX,paypal.ca,paypal
+        - DOMAIN-SUFFIX,paypal.com,paypal
+        - DOMAIN-SUFFIX,paypal.com.cn,paypal
+        - DOMAIN-SUFFIX,paypal.com.hk,paypal
+        - DOMAIN-SUFFIX,paypal.com.sg,paypal
+        - DOMAIN-SUFFIX,paypal.hk,paypal
+        - DOMAIN-SUFFIX,paypal.info,paypal
+        - DOMAIN-SUFFIX,paypal.jp,paypal
+        - DOMAIN-SUFFIX,paypal.me,paypal
+        - DOMAIN-SUFFIX,paypal.net.cn,paypal
+        - DOMAIN-SUFFIX,paypal.org.cn,paypal
+        - DOMAIN-SUFFIX,paypal.so,paypal
+        - DOMAIN-SUFFIX,paypal.us,paypal
+        - DOMAIN-SUFFIX,paypalbeacon.com,paypal
+        - DOMAIN-SUFFIX,paypalbenefits.com,paypal
+        - DOMAIN-SUFFIX,paypalbrasil.com,paypal
+        - DOMAIN-SUFFIX,paypalcommunity.cn,paypal
+        - DOMAIN-SUFFIX,paypalcommunity.com,paypal
+        - DOMAIN-SUFFIX,paypalcommunity.net,paypal
+        - DOMAIN-SUFFIX,paypalcommunity.org,paypal
+        - DOMAIN-SUFFIX,paypalcorp.com,paypal
+        - DOMAIN-SUFFIX,paypalcredit.com,paypal
+        - DOMAIN-SUFFIX,paypalcreditcard.com,paypal
+        - DOMAIN-SUFFIX,paypalgivingfund.org,paypal
+        - DOMAIN-SUFFIX,paypalhere.cn,paypal
+        - DOMAIN-SUFFIX,paypalhere.com,paypal
+        - DOMAIN-SUFFIX,paypalhere.com.cn,paypal
+        - DOMAIN-SUFFIX,paypalhere.info,paypal
+        - DOMAIN-SUFFIX,paypalhere.net,paypal
+        - DOMAIN-SUFFIX,paypalhere.org,paypal
+        - DOMAIN-SUFFIX,paypalhere.tv,paypal
+        - DOMAIN-SUFFIX,paypali.net,paypal
+        - DOMAIN-SUFFIX,paypalinc.com,paypal
+        - DOMAIN-SUFFIX,paypalindia.com,paypal
+        - DOMAIN-SUFFIX,paypalinsuranceservices.org,paypal
+        - DOMAIN-SUFFIX,paypall.com,paypal
+        - DOMAIN-SUFFIX,paypallabs.com,paypal
+        - DOMAIN-SUFFIX,paypalme.com,paypal
+        - DOMAIN-SUFFIX,paypalnet.net,paypal
+        - DOMAIN-SUFFIX,paypalnet.org,paypal
+        - DOMAIN-SUFFIX,paypalnetwork.info,paypal
+        - DOMAIN-SUFFIX,paypalnetwork.net,paypal
+        - DOMAIN-SUFFIX,paypalnetwork.org,paypal
+        - DOMAIN-SUFFIX,paypalobjects.com,paypal
+        - DOMAIN-SUFFIX,paypalonline.net,paypal
+        - DOMAIN-SUFFIX,paypalonline.org,paypal
+        - DOMAIN-SUFFIX,paypalprepagata.com,paypal
+        - DOMAIN-SUFFIX,paypalprepagata.net,paypal
+        - DOMAIN-SUFFIX,paypalservice.com,paypal
+        - DOMAIN-SUFFIX,paypalshopping.com,paypal
+        - DOMAIN-SUFFIX,paypalshopping.net,paypal
+        - DOMAIN-SUFFIX,paypalsurvey.com,paypal
+        - DOMAIN-SUFFIX,paypalx.com,paypal
+        - DOMAIN-SUFFIX,paypaly.com,paypal
+        - DOMAIN-SUFFIX,payppal.com,paypal
+        - DOMAIN-SUFFIX,payypal.com,paypal
+        - DOMAIN-SUFFIX,pdncommunity.com,paypal
+        - DOMAIN-SUFFIX,pp-soc.com,paypal
+        - DOMAIN-SUFFIX,ppaypal.com,paypal
+        - DOMAIN-SUFFIX,pppds.com,paypal
+        - DOMAIN-SUFFIX,pypl.com,paypal
+        - DOMAIN-SUFFIX,pypl.info,paypal
+        - DOMAIN-SUFFIX,pypl.net,paypal
+        - DOMAIN-SUFFIX,pypl.tv,paypal
+        - DOMAIN-SUFFIX,s-xoom.com,paypal
+        - DOMAIN-SUFFIX,secure-paypal.info,paypal
+        - DOMAIN-SUFFIX,securepaypal.info,paypal
+        - DOMAIN-SUFFIX,simility.com,paypal
+        - DOMAIN-SUFFIX,sslpaypal.org,paypal
+        - DOMAIN-SUFFIX,swiftbank.info,paypal
+        - DOMAIN-SUFFIX,swiftbank.us,paypal
+        - DOMAIN-SUFFIX,swiftcapital.com,paypal
+        - DOMAIN-SUFFIX,swiftfinancial.com,paypal
+        - DOMAIN-SUFFIX,swiftfinancial.info,paypal
+        - DOMAIN-SUFFIX,swiftfinancial.net,paypal
+        - DOMAIN-SUFFIX,thepaypalshop.com,paypal
+        - DOMAIN-SUFFIX,theshoppingexpresslane.net,paypal
+        - DOMAIN-SUFFIX,venmo-touch.com,paypal
+        - DOMAIN-SUFFIX,venmo.com,paypal
+        - DOMAIN-SUFFIX,venmo.info,paypal
+        - DOMAIN-SUFFIX,venmo.net,paypal
+        - DOMAIN-SUFFIX,venmo.org,paypal
+        - DOMAIN-SUFFIX,venmo.s3.amazonaws.com,paypal
+        - DOMAIN-SUFFIX,webmoneyinfo.com,paypal
+        - DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com,paypal
+        - DOMAIN-SUFFIX,www-paypal.info,paypal
+        - DOMAIN-SUFFIX,www-paypal.us,paypal
+        - DOMAIN-SUFFIX,wwwxoom.com,paypal
+        - DOMAIN-SUFFIX,xn--bnq297cix3a.cn,paypal
+        - DOMAIN-SUFFIX,xoom-experience.com,paypal
+        - DOMAIN-SUFFIX,xoom.com,paypal
+        - DOMAIN-SUFFIX,xoom.io,paypal
+        - DOMAIN-SUFFIX,xoom.net.cn,paypal
+        - DOMAIN-SUFFIX,xoom.us,paypal
+        - DOMAIN-SUFFIX,xoomcom.com,paypal
+        - DOMAIN-KEYWORD,paypal,paypal
+      prepend-proxy-groups:
+        - name: myGroup
+          type: select
+          proxies:
+            - DIRECT
+          commands:
+            - proxy-groups.myGroup.proxies=[]proxyNames|香港 # 向策略组添加所有定义的节点名，并按“HK”正则表达式过滤  
+        - name: JP
+          type: select
+          proxies:
+            - S-401 | 日本
+            - S-402 | 日本
+            - S-403 | 日本
+        - name: SG
+          type: select
+          proxies:
+            - S-201 | 新加坡
+            - S-202 | 新加坡
+            - S-203 | 新加坡
+        - name: TW
+          type: select
+          proxies:
+            - S-301 | 台湾
+            - S-302 | 台湾
+        - name: US
+          type: select
+          proxies:
+            - S-501 | 美国
+            - S-502 | 美国
+            - S-503 | 美国
+        - name: paypal # proxies最后面增加一个服务
+          type: select
+          proxies:
+          - myGroup
+          - JP
+          - SG
+          - TW
+          - US
