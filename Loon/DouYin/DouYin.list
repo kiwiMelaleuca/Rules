@@ -1,0 +1,37 @@
+# NAME: DouYin
+# AUTHOR: kiwiMelaleuca
+# REPO: https://raw.githubusercontent.com/kiwiMelaleuca/Rules/main/Quantumult%20X/DouYin/DouYin.list
+# UPDATED: 2022年10月30日13点18分
+# DOMAIN-SUFFIX: 
+# TOTAL: 
+DOMAIN-SUFFIX,amemv.com,DouYin
+DOMAIN-SUFFIX,ixigua.com,DouYin
+DOMAIN-SUFFIX,ixiguavideo.com,DouYin
+DOMAIN-SUFFIX,pstatp.com,DouYin
+DOMAIN-SUFFIX,snssdk.com,DouYin
+DOMAIN-SUFFIX,toutiao.com,DouYin
+DOMAIN-SUFFIX,bytedance.com,DouYin
+DOMAIN-SUFFIX,zijieapi.com,DouYin
+DOMAIN-SUFFIX,ecombdapi.com,DouYin
+DOMAIN-SUFFIX,douyinpic.com,DouYin
+DOMAIN-SUFFIX,awemeughun.com,DouYin
+DOMAIN-SUFFIX,bdurl.net,DouYin
+DOMAIN-SUFFIX,xycdn.com,DouYin
+DOMAIN-SUFFIX,oceanengine.com,DouYin
+DOMAIN-SUFFIX,douyinstatic.com,DouYin
+DOMAIN-SUFFIX,kuiniuca.com,DouYin
+DOMAIN-SUFFIX,bytegecko.com,DouYin
+DOMAIN-SUFFIX,bytemastatic.com,DouYin
+DOMAIN-SUFFIX,m.baike.com,DouYin
+DOMAIN-SUFFIX,douyinvod.com,DouYin
+DOMAIN-SUFFIX,zjcdn.com,DouYin
+DOMAIN-SUFFIX,bytegoofy.com,DouYin
+DOMAIN-SUFFIX,ecombdstatic.com,DouYin
+DOMAIN-SUFFIX,byteimg.com,DouYin
+DOMAIN-SUFFIX,bytescm.com,DouYin
+DOMAIN-SUFFIX,douyincdn.com,DouYin
+DOMAIN-SUFFIX,toutiaostatic.com,DouYin
+DOMAIN-SUFFIX,ecombdimg.com,DouYin
+DOMAIN-SUFFIX,ibytedapm.com,DouYin
+DOMAIN-SUFFIX,jinritemai.com,DouYin
+DOMAIN-SUFFIX,bytednsdoc.com,DouYin
