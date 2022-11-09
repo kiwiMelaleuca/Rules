@@ -1,37 +1,60 @@
 # NAME: DouYin
 # AUTHOR: kiwiMelaleuca
-# REPO: https://raw.githubusercontent.com/kiwiMelaleuca/Rules/main/Quantumult%20X/DouYin/DouYin.list
+# REPO: 
 # UPDATED: 2022年10月30日13点18分
-# DOMAIN-SUFFIX: 
-# TOTAL: 
 DOMAIN-SUFFIX,amemv.com,DouYin
 DOMAIN-SUFFIX,ixigua.com,DouYin
 DOMAIN-SUFFIX,ixiguavideo.com,DouYin
 DOMAIN-SUFFIX,pstatp.com,DouYin
 DOMAIN-SUFFIX,snssdk.com,DouYin
 DOMAIN-SUFFIX,toutiao.com,DouYin
+DOMAIN-SUFFIX,toutiaocdn.com,DouYin
+DOMAIN-SUFFIX,toutiaocloud.com,DouYin
+DOMAIN-SUFFIX,toutiaocloud.net,DouYin
+DOMAIN-SUFFIX,toutiaohao.com,DouYin
+DOMAIN-SUFFIX,toutiaohao.net,DouYin
+DOMAIN-SUFFIX,toutiaoimg.cn,DouYin
+DOMAIN-SUFFIX,toutiaoimg.com,DouYin
+DOMAIN-SUFFIX,toutiaoimg.net,DouYin
+DOMAIN-SUFFIX,toutiaopage.com,DouYin
+DOMAIN-SUFFIX,toutiaostatic.com,DouYin
+DOMAIN-SUFFIX,byodonline.com,DouYin
+DOMAIN-SUFFIX,bystack.com,DouYin
+DOMAIN-SUFFIX,bytecdn.cn,DouYin
+DOMAIN-SUFFIX,byted-static.com,DouYin
+DOMAIN-SUFFIX,byted.org,DouYin
 DOMAIN-SUFFIX,bytedance.com,DouYin
+DOMAIN-SUFFIX,bytedance.net,DouYin
+DOMAIN-SUFFIX,bytedanceapi.com,DouYin
+DOMAIN-SUFFIX,bytedns.net,DouYin
+DOMAIN-SUFFIX,bytednsdoc.com,DouYin
+DOMAIN-SUFFIX,bytegoofy.com,DouYin
+DOMAIN-SUFFIX,byteimg.com,DouYin
+DOMAIN-SUFFIX,bytescm.com,DouYin
+DOMAIN-SUFFIX,bytetcc.com,DouYin
+DOMAIN-SUFFIX,bytetos.com,DouYin
+DOMAIN-SUFFIX,bytexservice.com,DouYin
 DOMAIN-SUFFIX,zijieapi.com,DouYin
+DOMAIN-SUFFIX,zijiecdn.com,DouYin
+DOMAIN-SUFFIX,zijiecdn.net,DouYin
 DOMAIN-SUFFIX,ecombdapi.com,DouYin
+DOMAIN-SUFFIX,douyin.com,DouYin
 DOMAIN-SUFFIX,douyinpic.com,DouYin
+DOMAIN-SUFFIX,douyinstatic.com,DouYin
+DOMAIN-SUFFIX,douyinvod.com,DouYin
 DOMAIN-SUFFIX,awemeughun.com,DouYin
 DOMAIN-SUFFIX,bdurl.net,DouYin
 DOMAIN-SUFFIX,xycdn.com,DouYin
 DOMAIN-SUFFIX,oceanengine.com,DouYin
-DOMAIN-SUFFIX,douyinstatic.com,DouYin
 DOMAIN-SUFFIX,kuiniuca.com,DouYin
 DOMAIN-SUFFIX,bytegecko.com,DouYin
 DOMAIN-SUFFIX,bytemastatic.com,DouYin
 DOMAIN-SUFFIX,m.baike.com,DouYin
-DOMAIN-SUFFIX,douyinvod.com,DouYin
+DOMAIN-SUFFIX,zjbyte.cn,DouYin
 DOMAIN-SUFFIX,zjcdn.com,DouYin
-DOMAIN-SUFFIX,bytegoofy.com,DouYin
+DOMAIN-SUFFIX,zjstv.com,DouYin
 DOMAIN-SUFFIX,ecombdstatic.com,DouYin
-DOMAIN-SUFFIX,byteimg.com,DouYin
-DOMAIN-SUFFIX,bytescm.com,DouYin
 DOMAIN-SUFFIX,douyincdn.com,DouYin
-DOMAIN-SUFFIX,toutiaostatic.com,DouYin
 DOMAIN-SUFFIX,ecombdimg.com,DouYin
 DOMAIN-SUFFIX,ibytedapm.com,DouYin
 DOMAIN-SUFFIX,jinritemai.com,DouYin
-DOMAIN-SUFFIX,bytednsdoc.com,DouYin
