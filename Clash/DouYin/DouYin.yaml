@@ -7,7 +7,6 @@
 # PROCESS-NAME: 1
 # TOTAL: 276
 payload:
-  - DOMAIN-SUFFIX,2333333333333.com
   - DOMAIN-SUFFIX,365yg.com
   - DOMAIN-SUFFIX,activitybyte.com
   - DOMAIN-SUFFIX,aihst8.com
@@ -282,4 +281,3 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,toutiao.com
   - IP-CIDR,114.246.10.65/32
-  - PROCESS-NAME,com.zhiliaoapp.musically
