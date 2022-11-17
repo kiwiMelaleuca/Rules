@@ -1,0 +1,10 @@
+# NAME: Airport
+# AUTHOR: kiwiMelaleuca
+# REPO: 自用机场的域名和订阅规则
+payload:
+  - DOMAIN-SUFFIX,tagss.pro
+  - DOMAIN-SUFFIX,一元机场.com
+  - DOMAIN-SUFFIX,hlasw.com
+  - DOMAIN-SUFFIX,tagsub.net
+  - DOMAIN-SUFFIX,tagsssubscribe.com
+  - DOMAIN-SUFFIX,xn--4gq62f52gdss.com
