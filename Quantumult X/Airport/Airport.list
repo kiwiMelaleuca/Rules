@@ -1,9 +1,9 @@
 # NAME: Airport
 # AUTHOR: kiwiMelaleuca
 # REPO: 自用机场的域名和订阅规则
-HOST-SUFFIX,tagss.pro,DouYin
-HOST-SUFFIX,一元机场.com,DouYin
-HOST-SUFFIX,hlasw.com,DouYin
-HOST-SUFFIX,tagsub.net,DouYin
-HOST-SUFFIX,tagsssubscribe.com,DouYin
-HOST-SUFFIX,xn--4gq62f52gdss.com,DouYin
+HOST-SUFFIX,tagss.pro,Airport
+HOST-SUFFIX,一元机场.com,Airport
+HOST-SUFFIX,hlasw.com,Airport
+HOST-SUFFIX,tagsub.net,Airport
+HOST-SUFFIX,tagsssubscribe.com,Airport
+HOST-SUFFIX,xn--4gq62f52gdss.com,Airport
