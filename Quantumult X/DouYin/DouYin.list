@@ -8,16 +8,16 @@ HOST-SUFFIX,ixiguavideo.com,DouYin
 # HOST-SUFFIX,pstatp.com,DouYin
 HOST-SUFFIX,snssdk.com,DouYin
 # HOST-SUFFIX,toutiao.com,DouYin
-HOST-SUFFIX,toutiaocdn.com,DouYin
-HOST-SUFFIX,toutiaocloud.com,DouYin
-HOST-SUFFIX,toutiaocloud.net,DouYin
-HOST-SUFFIX,toutiaohao.com,DouYin
-HOST-SUFFIX,toutiaohao.net,DouYin
-HOST-SUFFIX,toutiaoimg.cn,DouYin
+# HOST-SUFFIX,toutiaocdn.com,DouYin
+# HOST-SUFFIX,toutiaocloud.com,DouYin
+# HOST-SUFFIX,toutiaocloud.net,DouYin
+# HOST-SUFFIX,toutiaohao.com,DouYin
+# HOST-SUFFIX,toutiaohao.net,DouYin
+# HOST-SUFFIX,toutiaoimg.cn,DouYin
 # HOST-SUFFIX,toutiaoimg.com,DouYin
-HOST-SUFFIX,toutiaoimg.net,DouYin
-HOST-SUFFIX,toutiaopage.com,DouYin
-HOST-SUFFIX,toutiaostatic.com,DouYin
+# HOST-SUFFIX,toutiaoimg.net,DouYin
+# HOST-SUFFIX,toutiaopage.com,DouYin
+# HOST-SUFFIX,toutiaostatic.com,DouYin
 HOST-SUFFIX,byodonline.com,DouYin
 HOST-SUFFIX,bystack.com,DouYin
 HOST-SUFFIX,bytecdn.cn,DouYin
@@ -49,13 +49,13 @@ HOST-SUFFIX,oceanengine.com,DouYin
 HOST-SUFFIX,kuiniuca.com,DouYin
 # HOST-SUFFIX,bytegecko.com,DouYin
 # HOST-SUFFIX,bytemastatic.com,DouYin
-HOST-SUFFIX,m.baike.com,DouYin
-HOST-SUFFIX,zjbyte.cn,DouYin
-HOST-SUFFIX,zjcdn.com,DouYin
-HOST-SUFFIX,zjstv.com,DouYin
-HOST-SUFFIX,ecombdstatic.com,DouYin
+# HOST-SUFFIX,m.baike.com,DouYin
+# HOST-SUFFIX,zjbyte.cn,DouYin
+# HOST-SUFFIX,zjcdn.com,DouYin
+# HOST-SUFFIX,zjstv.com,DouYin
+# HOST-SUFFIX,ecombdstatic.com,DouYin
 HOST-SUFFIX,douyincdn.com,DouYin
-HOST-SUFFIX,ecombdimg.com,DouYin
+# HOST-SUFFIX,ecombdimg.com,DouYin
 # HOST-SUFFIX,ibytedapm.com,DouYin
-HOST-SUFFIX,jinritemai.com,DouYin
-HOST-SUFFIX,byteactivity.com,DouYin
+# HOST-SUFFIX,jinritemai.com,DouYin
+# HOST-SUFFIX,byteactivity.com,DouYin
