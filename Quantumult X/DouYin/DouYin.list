@@ -14,7 +14,7 @@ HOST-SUFFIX,toutiaocloud.net,DouYin
 HOST-SUFFIX,toutiaohao.com,DouYin
 HOST-SUFFIX,toutiaohao.net,DouYin
 HOST-SUFFIX,toutiaoimg.cn,DouYin
-HOST-SUFFIX,toutiaoimg.com,DouYin
+# HOST-SUFFIX,toutiaoimg.com,DouYin
 HOST-SUFFIX,toutiaoimg.net,DouYin
 HOST-SUFFIX,toutiaopage.com,DouYin
 HOST-SUFFIX,toutiaostatic.com,DouYin
@@ -24,7 +24,7 @@ HOST-SUFFIX,bytecdn.cn,DouYin
 HOST-SUFFIX,byted-static.com,DouYin
 HOST-SUFFIX,byted.org,DouYin
 HOST-SUFFIX,bytedance.com,DouYin
-HOST-SUFFIX,bytedance.net,DouYin
+# HOST-SUFFIX,bytedance.net,DouYin
 HOST-SUFFIX,bytedanceapi.com,DouYin
 HOST-SUFFIX,bytedns.net,DouYin
 HOST-SUFFIX,bytednsdoc.com,DouYin
@@ -34,7 +34,7 @@ HOST-SUFFIX,bytescm.com,DouYin
 HOST-SUFFIX,bytetcc.com,DouYin
 HOST-SUFFIX,bytetos.com,DouYin
 HOST-SUFFIX,bytexservice.com,DouYin
-HOST-SUFFIX,zijieapi.com,DouYin
+# HOST-SUFFIX,zijieapi.com,DouYin
 HOST-SUFFIX,zijiecdn.com,DouYin
 HOST-SUFFIX,zijiecdn.net,DouYin
 HOST-SUFFIX,ecombdapi.com,DouYin
@@ -47,7 +47,7 @@ HOST-SUFFIX,bdurl.net,DouYin
 HOST-SUFFIX,xycdn.com,DouYin
 HOST-SUFFIX,oceanengine.com,DouYin
 HOST-SUFFIX,kuiniuca.com,DouYin
-HOST-SUFFIX,bytegecko.com,DouYin
+# HOST-SUFFIX,bytegecko.com,DouYin
 HOST-SUFFIX,bytemastatic.com,DouYin
 HOST-SUFFIX,m.baike.com,DouYin
 HOST-SUFFIX,zjbyte.cn,DouYin
