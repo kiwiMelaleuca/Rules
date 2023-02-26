@@ -3,11 +3,11 @@
 # REPO: https://raw.githubusercontent.com/kiwiMelaleuca/Rules/main/Quantumult%20X/DouYin/DouYin.list
 # UPDATED: 2022年10月30日13点18分
 HOST-SUFFIX,amemv.com,DouYin
-HOST-SUFFIX,ixigua.com,DouYin
+# HOST-SUFFIX,ixigua.com,DouYin
 HOST-SUFFIX,ixiguavideo.com,DouYin
-HOST-SUFFIX,pstatp.com,DouYin
+# HOST-SUFFIX,pstatp.com,DouYin
 HOST-SUFFIX,snssdk.com,DouYin
-HOST-SUFFIX,toutiao.com,DouYin
+# HOST-SUFFIX,toutiao.com,DouYin
 HOST-SUFFIX,toutiaocdn.com,DouYin
 HOST-SUFFIX,toutiaocloud.com,DouYin
 HOST-SUFFIX,toutiaocloud.net,DouYin
@@ -23,7 +23,7 @@ HOST-SUFFIX,bystack.com,DouYin
 HOST-SUFFIX,bytecdn.cn,DouYin
 HOST-SUFFIX,byted-static.com,DouYin
 HOST-SUFFIX,byted.org,DouYin
-HOST-SUFFIX,bytedance.com,DouYin
+# HOST-SUFFIX,bytedance.com,DouYin
 # HOST-SUFFIX,bytedance.net,DouYin
 HOST-SUFFIX,bytedanceapi.com,DouYin
 HOST-SUFFIX,bytedns.net,DouYin
@@ -37,7 +37,7 @@ HOST-SUFFIX,bytexservice.com,DouYin
 # HOST-SUFFIX,zijieapi.com,DouYin
 HOST-SUFFIX,zijiecdn.com,DouYin
 HOST-SUFFIX,zijiecdn.net,DouYin
-HOST-SUFFIX,ecombdapi.com,DouYin
+# HOST-SUFFIX,ecombdapi.com,DouYin
 HOST-SUFFIX,douyin.com,DouYin
 HOST-SUFFIX,douyinpic.com,DouYin
 HOST-SUFFIX,douyinstatic.com,DouYin
@@ -48,7 +48,7 @@ HOST-SUFFIX,xycdn.com,DouYin
 HOST-SUFFIX,oceanengine.com,DouYin
 HOST-SUFFIX,kuiniuca.com,DouYin
 # HOST-SUFFIX,bytegecko.com,DouYin
-HOST-SUFFIX,bytemastatic.com,DouYin
+# HOST-SUFFIX,bytemastatic.com,DouYin
 HOST-SUFFIX,m.baike.com,DouYin
 HOST-SUFFIX,zjbyte.cn,DouYin
 HOST-SUFFIX,zjcdn.com,DouYin
@@ -56,6 +56,6 @@ HOST-SUFFIX,zjstv.com,DouYin
 HOST-SUFFIX,ecombdstatic.com,DouYin
 HOST-SUFFIX,douyincdn.com,DouYin
 HOST-SUFFIX,ecombdimg.com,DouYin
-HOST-SUFFIX,ibytedapm.com,DouYin
+# HOST-SUFFIX,ibytedapm.com,DouYin
 HOST-SUFFIX,jinritemai.com,DouYin
 HOST-SUFFIX,byteactivity.com,DouYin
