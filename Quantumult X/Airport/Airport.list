@@ -3,6 +3,8 @@
 # REPO: 自用机场的域名和订阅规则
 HOST-SUFFIX,tagss.pro,Airport
 HOST-SUFFIX,tagss01.pro,Airport
+HOST-SUFFIX,tagcdnsub.com,Airport
+HOST-SUFFIX,tagsssubscribe.com,Airport
 HOST-SUFFIX,一元机场.com,Airport
 HOST-SUFFIX,hlasw.com,Airport
 HOST-SUFFIX,tagsub.net,Airport
@@ -15,3 +17,4 @@ HOST-SUFFIX,boxjs.com,Airport
 HOST-SUFFIX,loon-gallery.vercel.app,Airport
 HOST-SUFFIX,sspcloud.net,Airport
 HOST-SUFFIX,jump.shaoshupai.me,Airport
+tagcdnsub.com
