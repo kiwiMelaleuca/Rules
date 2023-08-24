@@ -16,5 +16,8 @@ DOMAIN-SUFFIX,loon-gallery.vercel.app
 DOMAIN-SUFFIX,sspcloud.net
 DOMAIN-SUFFIX,jump.shaoshupai.me
 DOMAIN-SUFFIX,tagcdnsub.work
-DOMAIN-SUFFIX,buy.itunes.apple.com
-DOMAIN-SUFFIX,p18-buy.itunes.apple.com
+#DOMAIN-SUFFIX,buy.itunes.apple.com
+#DOMAIN-SUFFIX,p18-buy.itunes.apple.com
+DOMAIN-SUFFIX,creamdata.net
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,nysubs.xyz
