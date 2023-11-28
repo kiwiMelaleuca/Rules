@@ -58,3 +58,15 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,jinritemai.com
+DOMAIN-SUFFIX,bytemaimg.com
+DOMAIN-SUFFIX,ingeek.com
+IP-CIDR,101.36.166.16/32,no-resolve
+IP-CIDR,119.96.21.57/58,no-resolve
+IP-CIDR,150.139.156.203/204,no-resolve
+IP-CIDR,101.36.166.16/32,no-resolve
+IP-CIDR,116.211.221.192/32,no-resolve
+IP-CIDR,113.240.121.52/32,no-resolve
+IP-CIDR,103.136.221.67/32,no-resolve
+IP-CIDR,119.97.179.163/32,no-resolve
+IP-CIDR,113.240.121.56/32,no-resolve
+IP-CIDR,58.49.243.57/32,no-resolve
